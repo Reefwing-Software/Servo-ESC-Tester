@@ -1,3 +1,5 @@
+![version](https://img.shields.io/github/v/tag/Reefwing-Software/Servo-ESC-Tester) ![license](https://img.shields.io/badge/license-MIT-green) ![release](https://img.shields.io/github/release-date/Reefwing-Software/Servo-ESC-Tester?color="red") ![open source](https://badgen.net/badge/open/source/blue?icon=github)
+
 # Servo ESC Tester
  An Arduino based multiprotocol Servo/ESC Tester
 
